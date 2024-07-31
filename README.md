@@ -1,2 +1,2 @@
-# CadastroPessoa
-Projeto Blazor simulando cadastro de pessoas com id, nome, cpf, idade e telefone. 
+# ProjetoPessoa
+Projeto realizado simulando o cadastro de pessoas com id, nome, cpf, idade e telefone. 
