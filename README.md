@@ -9,7 +9,7 @@ O App Cadastro Pessoa é uma aplicação desenvolvida para simular o cadastro de
 
 * Blazor – Interface interativa
 * C# / .NET – Backend para lógica do sistema
-* Entity Framework Core (se houver banco de dados) – Gerenciamento de dados
+* Entity Framework Core – Gerenciamento de dados
 * Banco de Dados – SQL Server, MySQL, PostgreSQL ou outro
 * HTML, CSS – Estilização da interface
   
